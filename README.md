@@ -1,16 +1,24 @@
-# Title
+# Variables and Methods
 
-## Learning Goals
+Variables and methods are two of the
+fundamental building blocks of Ruby. Variables
+are used to store data values for later use.
+Methods, in essence, store application _behaviors_
+(in code) that we can call on later. 
 
--SWBAT 1
--SWBAT 2
+In this section are lessons and labs related to
+variables and methods. Topics include:
 
-## Introduction
+* Variables assignment
+* Using variables
+* Defining and calling methods
+* Default method arguments
+* Method scope
+* Mutability
 
-## SWBAT 1
+In addition, here are some resources you may find
+helpful:
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+* [Types of Variables](https://www.geeksforgeeks.org/ruby-types-of-variables/)
+* [Defining a Method](http://ruby-for-beginners.rubymonstas.org/writing_methods/definition.html)
+* [Method Calls](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Method_Calls)
